@@ -1,0 +1,7 @@
+requests
+urllib3
+catalystcentersdk
+pyopenssl
+python-dotenv
+PyYAML
+PyGithub
